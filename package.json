@@ -1,0 +1,15 @@
+{
+    "name": "robot-nodejs",
+    "version": "1.0.0",
+    "description": "a robot that can move and turn using commands",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "robot": "nodemon app.js"
+    },
+    "author": "Neo",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^3.0.3"
+    }
+}
